@@ -85,7 +85,7 @@ node index.js
 
 ## Sample Output
 
-🚀 Starting RAG Demo with LangChain and OpenAI
+```🚀 Starting RAG Demo with LangChain and OpenAI
 
 📚 Loading documents...
 Looking for documents in: /path/to/LLM-Embeddings-Demo/documents
@@ -108,3 +108,4 @@ RAG stands for Retrieval-Augmented Generation, which enhances a language model b
 ... (other queries and answers follow)
 
 RAG demo completed.
+```
