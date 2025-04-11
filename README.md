@@ -23,6 +23,7 @@ The core idea behind the project is to show how external context—retrieved fro
 ---
 
 ## Repository Structure
+```
 LLM-EMBEDDINGS/
 ├── documents/
 │   ├── sample1.txt
@@ -37,6 +38,8 @@ LLM-EMBEDDINGS/
 ├── package-lock.json
 ├── package.json
 └── README.md
+```
+
 
 
 ---
